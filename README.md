@@ -4,9 +4,12 @@
 
 The `minigpt.py` file features a straightforward implementation of the decoder block from the transformer architecture. This implementation is trained using the Harry Potter book series as its dataset. The project is designed for educational purposes, aiming to help me learn and comprehend the transformer architecture and natural language processing (NLP).
 
-# Custom License
+# License
 
 This project is not licensed for public use, modification, or distribution. All rights are reserved by the author.
+
+Although this repository is public, please note that you do not have permission to use, modify, or distribute the code. Forks and personal use for educational purposes are permitted, but any other use is restricted.
+
 For permissions or inquiries, please contact [teoyk9810@gmail.com].
 
 # Resources
