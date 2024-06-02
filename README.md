@@ -12,6 +12,8 @@ For permissions or inquiries, please contact [teoyk9810@gmail.com].
 # Resources
 
 www.youtube.com/watch?v=kCc8FmEb1nY&t=2277s  <-- by Andrej Karparthy
+
 https://www.youtube.com/watch?v=wjZofJX0v4M&t=1114s <-- by Grant Sanderson (3Blue1Brown)
+
 https://www.youtube.com/watch?v=eMlx5fFNoYc&t=920s <-- by Grant Sanderson (3Blue1Brown)
 
