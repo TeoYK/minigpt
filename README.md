@@ -8,7 +8,7 @@ The `minigpt.py` file features a straightforward implementation of the decoder b
 
 This project is not licensed for public use, modification, or distribution. All rights are reserved by the author.
 
-Although this repository is public, please note that you do not have permission to use, modify, or distribute the code. Forks and personal use for educational purposes are permitted, but any other use is restricted.
+Although this repository is public, please note that you do not have permission to use, modify, or distribute the code. 
 
 For permissions or inquiries, please contact [teoyk9810@gmail.com].
 
